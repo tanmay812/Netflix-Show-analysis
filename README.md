@@ -12,4 +12,5 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 5.	Top 10 actors according to volume of content.
 6.	Top 10 countries producing content according to volume.
 7.	Top 10 director according to volume.
-
+## Dashboard
+- Dashboard <a href="https://github.com/tanmay812/Netflix-Show-analysis/blob/main/SS_dashboard.png"> Visuals </a>
